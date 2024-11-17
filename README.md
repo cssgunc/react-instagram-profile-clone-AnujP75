@@ -50,8 +50,8 @@ Once you've completed your Instagram clone, make sure to review the requirements
    - Hit that button again in order to send your commit from your local repository to the remote one (syncing the two repositories)
    - You're done!! 🎉🎉🎉
 
-[Screenshot.jpg](https://github.com/cssgunc/react-instagram-profile-clone-AnujP75/blob/c5f0c964cd88fc8cb9b24635853bcf8a4b319b24/Screenshot.jpg)
-
+![Model]([Screenshot.jpg](https://github.com/cssgunc/react-instagram-profile-clone-AnujP75/blob/c5f0c964cd88fc8cb9b24635853bcf8a4b319b24/Screenshot.jpg)
+)
 
 ## Resources
 Please remember that while you're working on this assignment, you can always refer to:
